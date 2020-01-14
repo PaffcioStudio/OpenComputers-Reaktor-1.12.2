@@ -1,8 +1,8 @@
 # OpenComputerS-Reaktor-1.12.2
 Obsługuje Big Reactors oraz Extreme Reactors na 1.12.2.<br/>
 
-Aby go użyć wpisz w komputerze: **pastebin run LZWQm7uD**
-Pamiętaj tylko aby go najpierw podłączyć do reaktora.
+Aby go użyć wpisz w komputerze: **pastebin run LZWQm7uD** .
+Nic nie musisz stąd pobierać ;-). Pamiętaj tylko aby go najpierw podłączyć do reaktora.
 
 
 Wymagania:<br/>
