@@ -1,4 +1,4 @@
-# OpenComputerS-Reaktor-1.12.2
+# OpenComputers Reaktor na 1.12.2 w pełnej polskiej wersji językowej!
 Obsługuje Big Reactors oraz Extreme Reactors na 1.12.2.<br/>
 
 Aby go użyć wpisz w komputerze: **pastebin run LZWQm7uD** <br/>
