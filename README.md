@@ -8,7 +8,7 @@ Pamiętaj tylko aby go najpierw podłączyć do reaktora.
 Wymagania:<br/>
 1x Power Converter (w razie potrzebny)<br/>
 1x Keyboard<br/>
-1x Computer(Level 3)<br/>
+1x Computer (Level 3)<br/>
 1x Graphic Card (Level 3)<br/>
 1x CPU (Level 3)<br/>
 1x Memory (Level 3)<br/>
