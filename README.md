@@ -12,7 +12,7 @@ Wymagania:<br/>
 1x Graphic Card (Level 3)<br/>
 1x CPU (Level 3)<br/>
 1x Memory (Level 3)<br/>
-1x Hard Drive(Level 2 lub 3)<br/>
+1x Hard Drive (Level 2 lub 3)<br/>
 1x Internet Card<br/>
 1x Floppy (OpenOS)<br/>
 1x Lua Bios<br/>
