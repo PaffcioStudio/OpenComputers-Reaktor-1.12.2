@@ -14,7 +14,7 @@ Wymagania:<br/>
 1x Memory (Level 3)<br/>
 1x Hard Drive (Level 2 lub 3)<br/>
 1x Internet Card<br/>
-1x Floppy (OpenOS)<br/>
+1x Dyskietka Floppy (OpenOS)<br/>
 1x Lua Bios<br/>
 6x Screens (Level 3) (lub więcej), zalecam szerokość 3 i wysokość 2<br/>
 Kable jeśli potrzeba
