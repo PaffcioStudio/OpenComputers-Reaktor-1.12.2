@@ -5,9 +5,9 @@ Aby go użyć wpisz w komputerze: **pastebin run LZWQm7uD**
 Pamiętaj tylko aby go najpierw podłączyć do reaktora.
 
 
-Wymagania:N+1
-1x Power Converter (w razie potrzebny)N+1
-1x KeyboardN+1
+Wymagania:&nbsp
+1x Power Converter (w razie potrzebny)&nbsp
+1x Keyboard&nbsp
 1x Computer(Level 3)
 1x Graphic Card (Level 3)
 1x CPU (Level 3)
